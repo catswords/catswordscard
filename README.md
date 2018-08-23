@@ -33,7 +33,7 @@ Unlike Bounty, which only requires results, CatswordsToken support the entire pr
 
 Until now, if you have been following a major security vendor, a private and public organization that supports security economically, you do not have to do that now to convert these activities into value that can be converted.
 
-Anyone who analyzes or tastes security research for a safe society may have the right to protection through CatswordsToken.
+Everyone who makes a security study work or hobby for a safe society has the right to protection through CatswordsToken.
 
 ## Website
 https://token.catswords.com
