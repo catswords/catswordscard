@@ -31,7 +31,7 @@ Security researchers can now convert all security related research activities in
 This is different from the Bug Bounty Program.
 Unlike Bounty, which only requires results, CatswordsToken support the entire process of research, writing, proof of concept (PoC) and development performed by security analysts.
 
-Until now, if you have been following a major security vendor, a private and public organization that supports security economically, you do not have to do that now to convert these activities into value that can be converted.
+Until now, if you have been following major security companies, private and public organizations that support security economically, you do not have to do that now to get these activities into value.
 
 Everyone who makes a security study work or hobby for a safe society has the right to protection through CatswordsToken.
 
