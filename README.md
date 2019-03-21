@@ -17,7 +17,7 @@ CatswordsToken primary goal is to legally protect security analysts.
 The private security analyst's monthly income is 3 ~ 20% compared to the one-time attorney's selection fee for civil cases.
 It is even difficult if you're trying to receive a public legal support (free legal consultation and public attorney), because many ICT field requires special interpretation.
 
-Catswords Token protects security analyzers through a program that assesses and determines the value of security analyzers’ actions. A researcher can convert all his research activities to Catswords Token for any purpose. This is different from the Bug Bounty Program.
+CatswordsToken protects security analyzers through a program that assesses and determines the value of security analyzers’ actions. A researcher can convert all his research activities to Catswords Token for any purpose. This is different from the Bug Bounty Program.
 
 Unlike Bounty which requires only results, CatswordsToken supports the entire process of all research, writing, PoC, and R&D performed by security analyzers.
 
