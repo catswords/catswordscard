@@ -6,7 +6,7 @@ Catswords Community (https://catswords.com) is malware researcher's assistant se
 
 We are interested in the legal and economic problems that researchers are experiencing in tracking malware and cybercriminals.
 
-We aim to secure the Darkcoin infrastructure similar to cybercriminals and to respond quickly to these problems in the real world.
+We aim to respond quickly to these problems and support them.
 
 ## Why CatswordsToken?
 CatswordsToken allow you to take advantage of the same or more robust networks that are equivalent to Darkcoin and special-purpose ETHs for malicious hackers and malware authors.
