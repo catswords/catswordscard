@@ -1,14 +1,12 @@
 # CatswordsToken
-CatswordsToken is legal protection program for malware or cybar crime researchers.
+CatswordsToken is the legal and economic protection program for malware or cybercriminal researchers.
 
 ## What is CatswordsToken?
-Catswords Community (https://catswords.com) is malware researcher's assistant service in Republic of Korea, Founded in 2008.
+Catswords Community (https://catswords.com) is malware researcher's assistant service. Founded in 2008.
 
-We worry about the safety of malware analysts and reseachers.
+We are interested in the legal and economic problems that researchers are experiencing in tracking malware and cybercriminals.
 
-Today, they are exposed to several dangerous interests in society of real world.
-
-CatswordsToken is support and protect activities of them.
+We aim to secure the Darkcoin infrastructure similar to cybercriminals and to respond quickly to these problems in the real world.
 
 ## Why CatswordsToken?
 CatswordsToken allow you to take advantage of the same or more robust networks that are equivalent to Darkcoin and special-purpose ETHs for malicious hackers and malware authors.
