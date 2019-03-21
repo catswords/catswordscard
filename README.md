@@ -1,5 +1,5 @@
 # CatswordsToken
-CatswordsToken is the legal and economic protection program for malware or cybercriminal researchers.
+CatswordsToken is the legal and economic protection program for malware researchers.
 
 ## What is CatswordsToken?
 Catswords Community (https://catswords.com) is malware researcher's assistant service. Founded in 2008.
